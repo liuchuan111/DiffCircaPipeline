@@ -30,3 +30,9 @@ devtools::install_github("DiffCircaPipeline/DiffCircaPipeline")
 ## Tutorial 
 
 The tutorial can be found at https://diffcircapipeline.github.io. 
+
+## Meaning of the symbols
+differential rhythmicity (DR)
+differential phase (Δ∅), 
+amplitude (ΔA), 
+DR fitness (ΔR2, the coefficient of determination representing the proportion of variance explained by the circadian pattern),
